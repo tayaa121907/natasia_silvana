@@ -1,0 +1,57 @@
+.container{
+    width: 100%;
+    height: 1000px;
+    background-color: beige;
+}
+.logo{
+    width: 100%;
+    height: 100px;
+    background-color: white; 
+    display: flex;
+    justify-content: space-between;
+}
+.gbr{
+    width: 100px;
+    height: 100px;
+    background-color: black
+}
+.sosmed{
+    width: 200px;
+    height: 100px;
+    background-color: black
+}
+.menu{
+    width: 100%;
+    height: 50px;
+    background-color: green;
+}
+.beranda{
+    width:100px;
+    height: 50px;
+    background-color: red;
+}
+.layanan{
+    width: 100px;
+    height: 50px;
+    background-color: yellow;
+}
+.kontak-menu{
+    width: 100px;
+    height: 50px;
+    background-color: aqua;
+}
+.email{
+    width: 100px;
+    height: 50px;
+    background-color: aquamarine;
+}
+
+
+    
+    
+    
+    
+    
+    
+    
+    
